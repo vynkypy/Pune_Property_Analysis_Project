@@ -7,7 +7,7 @@ Get it into Excel, clean it with pandas.
 Transform using Power Query.
 Add some additional measures and built a dashboard in Power BI.
 
-# Introduction
+## Introduction
 As someone interested in data and looking to buy a home in Pune, I decided to analyze the real estate market. While exploring different listings, I saw the need for a clear and useful dashboard to make choosing a home easier.
 
 # Data Collection
