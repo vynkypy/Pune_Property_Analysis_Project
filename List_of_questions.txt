@@ -1,0 +1,19 @@
+What is the average price per square foot in different areas of Pune? Done
+
+Which areas have the highest and lowest average flat prices? Done
+
+What is the distribution of flat sizes (Carpet Area) across different localities? Done
+
+How does the price vary with the number of bedrooms, bathrooms, and balconies? Done
+
+What is the distribution of flats by their furnishing status (furnished, unfurnished, semi-furnished)? Done
+
+Are there any patterns in flat prices based on the floor number or total floors in the building? Done
+
+How does the facing direction of the flat impact its price?
+
+What percentage of flats are ready to move versus under construction?
+
+What is the average price of flats in different societies?
+
+How do resale prices compare to new flat prices in the same locality?
